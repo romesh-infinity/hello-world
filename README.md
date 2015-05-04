@@ -1,2 +1,2 @@
 # hello-world
-hi there, i am a newbie stil learning android rom developement.
+hi there, i am a newbie still learning android rom developement.
